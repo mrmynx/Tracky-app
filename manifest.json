@@ -1,0 +1,22 @@
+{
+  "name": "Tracky - Location App",
+  "short_name": "Tracky",
+  "description": "A simple location sharing app to find your friends live location.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/684/684908.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/684/684908.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
